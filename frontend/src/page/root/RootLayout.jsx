@@ -6,7 +6,7 @@ export function RootLayout() {
   return (
     <Stack>
       <Box
-        bgColor={{ base: "blue.100", _dark: "gray.800" }}
+        bgColor={{ base: "blue.100", _dark: "blue.900" }}
         mb={10}
         px={{ md: 20, lg: 40 }}
       >
